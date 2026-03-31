@@ -1,6 +1,6 @@
 # Mall Footfall Counter (AI-Powered Tracking)
-**Author:** Tanya Sahu  
-**Registration Number:** 23BAI11105  
+**Author:** EKANSH SUKLA 
+**Registration Number:** 23BAI10139
 **Course:** B.Tech Artificial Intelligence  
 
 ---
